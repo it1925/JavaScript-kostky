@@ -1,0 +1,28 @@
+header {
+    padding: 22px;
+    background: rgb(2,0,36);
+    background : linear-gradient(90deg, rgba(2,0,36,1) 4%, rgba(50,45,200,1) 68%, rgba(0,212,255,1) 100%);
+
+}
+.kostka{
+    clear: both;
+    padding-top: 33px;
+}
+footer{
+    background: rgb(2,0,36);
+    background : linear-gradient(90deg, rgba(2,0,36,1) 4%, rgba(50,45,200,1) 68%, rgba(0,212,255,1) 100%);
+    color: rgb(255, 238, 0);
+}
+h1 {
+  font-size: 72px; 
+  background: -webkit-linear-gradient(#eee, rgb(255, 238, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+main {
+padding-bottom: 35em;
+  height: 100%;
+}
+#result {
+padding-top: 100px;
+}
